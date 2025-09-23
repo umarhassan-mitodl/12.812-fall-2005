@@ -1,0 +1,64 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Atmospheric Science"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geophysics"
+    ],
+    [
+      "Engineering",
+      "Environmental Engineering",
+      "Hydrology and Water Resource Systems"
+    ],
+    [
+      "Engineering",
+      "Ocean Engineering",
+      "Hydrodynamics"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Oceanography"
+    ]
+  ],
+  "legacy_uid": "582b35bf-46b1-4be7-11fa-3aa7c5aa9af3",
+  "instructors": {
+    "content": [
+      "9cadd9c7-2269-7932-edf2-a7d4a03640ab"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "48077eb1-692f-83c4-0112-5fe7a5e92459",
+    "website": "12-812-general-circulation-of-the-earths-atmosphere-fall-2005"
+  },
+  "course_title": "General Circulation of the Earth's Atmosphere",
+  "course_description": "This course examines diagnostic studies of the Earth's atmosphere and discusses their implications for the theory of the structure and general circulation of the Earth's atmosphere. It includes some discussion of the validation and use of general circulation models as atmospheric analogs.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.812",
+  "course_image_thumbnail": {
+    "content": "bd41ef8b-917e-73b5-ec0e-763bd060f1b2",
+    "website": "12-812-general-circulation-of-the-earths-atmosphere-fall-2005"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Exams"
+  ],
+  "site_uid": "49ea6ce3-be93-4ddf-984d-05a5cd816662",
+  "site_short_id": "12.812-fall-2005",
+  "site_url_path": "courses/12-812-general-circulation-of-the-earths-atmosphere-fall-2005",
+  "title": "Course Metadata"
+}
