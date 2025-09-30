@@ -5,6 +5,8 @@ description: This resource includes questions on NOAA compilation, balance of zo
 file: /courses/12-812-general-circulation-of-the-earths-atmosphere-fall-2005/cae058c8ca4055c5c8e657aaa2bd20c5_mid_term.pdf
 file_size: 55420
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

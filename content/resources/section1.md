@@ -5,6 +5,8 @@ description: This resource discusses general circulation of the earth?s atmosphe
 file: /courses/12-812-general-circulation-of-the-earths-atmosphere-fall-2005/d4d0725dfe53012d91048bd16c59416f_section1.pdf
 file_size: 14717
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

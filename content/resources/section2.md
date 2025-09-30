@@ -6,6 +6,8 @@ description: 'This resource includes information on pressure coordinates, statis
 file: /courses/12-812-general-circulation-of-the-earths-atmosphere-fall-2005/84a670794d724c5186e76fe29cd6d341_section2.pdf
 file_size: 939530
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: Global climate system. (Image courtesy of Technology Review, MIT.)
 file: /courses/12-812-general-circulation-of-the-earths-atmosphere-fall-2005/ffdb127705bd30d93877c505a3a9a684_chp_climate.jpg
 file_size: 67214
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

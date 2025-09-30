@@ -5,6 +5,8 @@ description: This resource discusses about Forcing of [u], [?], transformed eule
 file: /courses/12-812-general-circulation-of-the-earths-atmosphere-fall-2005/b865c3728beff0a3b9bc9e4706a6c23c_section7.pdf
 file_size: 2535736
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

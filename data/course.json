@@ -43,6 +43,7 @@
     "website": "12-812-general-circulation-of-the-earths-atmosphere-fall-2005"
   },
   "course_title": "General Circulation of the Earth's Atmosphere",
+  "hide_download": true,
   "course_description": "This course examines diagnostic studies of the Earth's atmosphere and discusses their implications for the theory of the structure and general circulation of the Earth's atmosphere. It includes some discussion of the validation and use of general circulation models as atmospheric analogs.\n",
   "department_numbers": [
     "12"
@@ -53,6 +54,7 @@
     "content": "bd41ef8b-917e-73b5-ec0e-763bd060f1b2",
     "website": "12-812-general-circulation-of-the-earths-atmosphere-fall-2005"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Lecture Notes",
     "Exams"

@@ -6,6 +6,8 @@ description: This resource includes information on zonal mean general circulatio
 file: /courses/12-812-general-circulation-of-the-earths-atmosphere-fall-2005/d2d8abbaec134a4cc1addcc0f3d838d3_section3.pdf
 file_size: 282691
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

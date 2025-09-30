@@ -5,6 +5,8 @@ description: This resource discusses about Phillips numerical experiment, quasi-
 file: /courses/12-812-general-circulation-of-the-earths-atmosphere-fall-2005/23c76aaf124a5222d4c966902946b00b_section9.pdf
 file_size: 759295
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

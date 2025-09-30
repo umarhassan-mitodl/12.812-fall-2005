@@ -5,6 +5,8 @@ description: This resource discusses about energy forms, potential energy and ba
 file: /courses/12-812-general-circulation-of-the-earths-atmosphere-fall-2005/8039908215d8049c2fe3295d7a29b100_section8.pdf
 file_size: 3201385
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
